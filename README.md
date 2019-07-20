@@ -1,5 +1,4 @@
 # SwapPub
-大社区内部二手商品交换网站
 开发环境：
 eclipse
 apache-tomcat-8.5.37
